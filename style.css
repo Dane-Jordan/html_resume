@@ -1,0 +1,91 @@
+* {background-color:grey; color:#000080;}
+.name{
+	text-align: center;
+	border:double 5px black;
+	display: block;
+	margin-right: 0px;
+	width: 75%
+}
+.heading {
+	width:75%;
+	text-align:center;
+	border:5px solid #4B0082;
+	font-size:2em;
+	margin-right: 0px;
+	position: relative;
+
+
+
+}
+#hate {
+	color:#B22222;
+	font-weight:bold;
+	font-style: italic;
+}
+.goals {
+	text-indent: 50px;
+	font-family:Arial;
+	font-size:1.75em;
+	font-weight:bold;
+	text-align: center;
+
+}
+#button {
+	background-color: black;
+	border:5px solid #7FFFD4;
+	border-radius:20%;
+	color:#4682B4;
+	font-size: 1.25em;
+
+	
+}
+ul li {color:#00CED1;
+		font-size:1.50em;
+}
+ul li:first-child{color:#00FF7F;}
+ul li:nth-child(2){color:#48D1CC;}
+ul li:nth-child(3){color:#006400;}
+.contact {
+	text-align: center;
+	position: fixed;
+	top:10px;
+	right:10px;
+	width:23%;
+	height:90%;
+	margin-top: 15px;
+	margin-bottom: 100px;
+}
+
+.contactbox{
+	border:10px dashed green;
+	position: fixed;
+	top:0px;
+	right:0px;
+	margin-left:0px;
+	width:23%;
+	height:95%;
+	
+
+}
+.textbox{
+	display:inline-block;
+	border: 3px dotted red;
+	height: 300px;
+	width: 34.5%;
+	position: relative;
+	margin: 5% 2.5% 5% 5%;
+	padding: 3px;
+	content: 100px;
+	
+}
+#rtext{
+	margin:2.5% 1.25% 2.5% 2.5%;
+	
+}
+#ltext{
+	margin: 2.5% 2.5% 2.5% 1.25%;
+}
+.regtext {
+	font-size: 1.50em;
+
+}
